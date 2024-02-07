@@ -1,4 +1,4 @@
-[![Check Links](https://github.com/p2635/odin-recipes/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
+[![Check Links](https://github.com/p2635/odin-recipes/actions/workflows/links.yml/badge.svg)](https://github.com/p2635/odin-recipes/actions/workflows/links.yml/)
 
 # Odin project - Recipes
 
